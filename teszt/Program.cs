@@ -9,6 +9,7 @@ namespace teszt
             Console.WriteLine("helló");
             Console.ReadKey();
             Console.WriteLine("XDDD");
+            Console.WriteLine("teszt");
         }
     }
 }
